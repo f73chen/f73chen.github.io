@@ -1,0 +1,15 @@
+- "project 1" in website title
+- change background colour
+- change about
+- remove about download button, or change to resume instead?
+- set up formspree to post to email
+- add icon for website title
+- make icons for each project (img/portfolio)
+- edit description for each project under _posts markdown
+
+9792E3
+151, 146, 227
+
+secondary
+48435c
+72, 67, 92
