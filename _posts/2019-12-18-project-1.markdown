@@ -6,5 +6,5 @@ img: no_touch_bell.png
 alt: image-alt
 project-date: December 2019
 category: Biomedical Device Design
-description: The No-Touch-Bell is a prototype biomedical device which aims to help people with rheumatoid arthritis lift weights. These patients experience pain, inflammation, and illness in their joints when handling heavy weights, yet obtaining regular exercise is one of the best ways for them to decrease inflamation and increase joint mobility. With this device, the dumbbell is directly attached to the forearm via Velcro strips, eliminating the use of hands. The prototype was modelled in SolidWorks then 3D printed. Muscle activation in test subjects were measured via Electromyography (EMG) electrodes connected to an Arduino board.
+description: The No-Touch-Bell is a prototype device which aims to help people with rheumatoid arthritis lift weights. These patients experience pain in their hands when handling heavy weights, yet exercising is one of the best ways to heal faster. With this device, the dumbbell is attached to the forearm via Velcro, eliminating the use of hands. The prototype was modelled in SolidWorks then 3D printed.
 ---

@@ -1,4 +1,6 @@
-- "project 1" in website title
-- make icons for each project (img/portfolio)
 - edit description for each project under _posts markdown
+	- UWARG (pfp is pic of plane)
+	- biotron (logo)
+	- terrible elevator (clipart)
+	- medhacks (clipart)
 - add website link to resume, website_resume, and linkedin
