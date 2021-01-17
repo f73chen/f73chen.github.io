@@ -1,10 +1,5 @@
 - "project 1" in website title
-- change background colour
-- change about
-- remove about download button, or change to resume instead?
 - set up formspree to post to email
 - make icons for each project (img/portfolio)
 - edit description for each project under _posts markdown
-
-50514f
-80, 81, 79
+- add website link to resume, website_resume, and linkedin
