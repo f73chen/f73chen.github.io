@@ -1,8 +1,8 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Biomedical Software Developer
+email: f73chen@uwaterloo.ca
+url: https://f73chen.github.io/
+description: "I am a student in Biomedical Engineering at Waterloo with a strong background in programming and a passion for machine learning and data science. I aim to accelerate the development of affordable healthcare and biotechnology by integrating large-scale data analytics with patient-oriented SaaS solutions."
 keywords: "machine learning, ML, artificial intelligence, AI, software engineering, software development, SWE, biomedical engineering, biomedical, engineer, BME, university of waterloo, waterloo, UW, 2021, internship, coop"
 skills: "Machine Learning - Software Development - Biomedical Design"
 meta_author: Chen Grace
