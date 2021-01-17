@@ -34,8 +34,8 @@ color:
 footer:
   copyright: Fenglin Chen
   location: Location
-  social: Links
-#  credits: Credits
+  social: Social Media
+  credits: Education
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,7 +52,7 @@ address:
   - line: Toronto, ON, M4S 0A4
 
 # Credits content
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Biomedical Engineering at the University of Waterloo. Pursuing Artificial Intelligence Option and Software Option.'
 
 # Build settings
 markdown: kramdown
