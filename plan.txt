@@ -1,5 +1,4 @@
 - "project 1" in website title
-- resume icon
 - make icons for each project (img/portfolio)
 - edit description for each project under _posts markdown
 - add website link to resume, website_resume, and linkedin
