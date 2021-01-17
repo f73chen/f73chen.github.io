@@ -6,5 +6,5 @@ img: uwarg.png
 alt: image-alt
 project-date: January 2021
 category: Machine Learning
-description: Computer Vision member at the Waterloo Aerial Robotics Group. I'll be developing an algorithm for the plane to taxi to boxes of medical supplies then scan their barcodes. I'm looking forward to competing in the Unmanned Systems Canada Student UAS Competition when the pandemic ends!
+description: As a Computer Vision member at the Waterloo Aerial Robotics Group, I'll develop algorithms using OpenCV for the plane to find boxes and scan their barcodes. I'm looking forward to competing in the Unmanned Systems Canada Student UAS Competition when the pandemic ends!
 ---

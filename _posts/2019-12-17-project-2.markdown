@@ -6,5 +6,5 @@ img: TTC_render.png
 alt: image-alt
 project-date: December 2019
 category: SolidWorks CAD
-description: This is the TTC's popular Flexity Outlook streetcar recreated in SolidWorks. I took measurements of the ION light rail in Waterloo, then referenced images of streetcars in Toronto. The project took well over 30 hours due to the number of parts involved, but I had a lot of fun learning to use SolidWorks!
+description: This is the TTC's popular Flexity Outlook streetcar recreated in SolidWorks. I took interior measurements of the ION light rail in Waterloo, then referenced images of Toronto streetcars. The project took well over 30 hours due to the large number of parts, but I had a lot of fun in learning to use SolidWorks!
 ---

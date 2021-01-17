@@ -6,5 +6,5 @@ img: elevator.jpg
 alt: image-alt
 project-date: April 2020
 category: Software Development
-description: During TerribleHacks, my team and I had fun creating the worst elevator algorithm ever based on bogo sort. The elevator goes wherever it wants, even if people were waiting. This project was practice in integrating backend algorithms with frontend graphics. 
+description: During TerribleHacks, my team and I had fun creating the worst elevator algorithm ever based on bogo sort: the elevator goes wherever it wants, even if people were waiting. This project was practice in integrating backend algorithms with frontend graphics. 
 ---

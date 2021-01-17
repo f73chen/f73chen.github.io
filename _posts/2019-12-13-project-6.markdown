@@ -6,5 +6,5 @@ img: biotron.jpg
 alt: image-alt
 project-date: December 2019
 category: Biomedical Design
-description: As a member of BioTron Haptic Gait, I analyzed videos of people walking across the room then used Python to detect patterns in the gait cycle. I visualized knee and ankle swing patterns to identify whether the person had a walking impairment.
+description: As a member of BioTron Haptic Gait, I analyzed videos of people walking across the room then used Python to detect patterns in their gait cycle. I visualized knee and ankle swing patterns to identify whether or not the person had a walking impairment.
 ---
