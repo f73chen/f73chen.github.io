@@ -4,7 +4,7 @@ email: f73chen@uwaterloo.ca
 url: https://f73chen.github.io/
 description: "I am a student in Biomedical Engineering at Waterloo with a strong background in programming and a passion for machine learning and data science. I aim to accelerate the development of affordable healthcare and biotechnology by integrating large-scale data analytics with patient-oriented SaaS solutions."
 keywords: "machine learning, ML, artificial intelligence, AI, software engineering, software development, SWE, biomedical engineering, biomedical, engineer, BME, university of waterloo, waterloo, UW, 2021, internship, coop"
-skills: "Machine Learning - Software Development - Biomedical Design"
+skills: "Machine Learning | Software Development | Biomedical Design"
 meta_author: Chen Grace
 
 # Google webmaster tools
@@ -52,7 +52,9 @@ address:
   - line: Toronto, ON, M4S 0A4
 
 # Credits content
-credits: 'Biomedical Engineering at the University of Waterloo. Pursuing Artificial Intelligence Option and Software Option.'
+credits: 
+  - line: 'Biomedical Engineering at University of Waterloo'
+  - line: 'Artificial Intelligence Option and Software Option.'
 
 # Build settings
 markdown: kramdown
