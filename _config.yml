@@ -25,8 +25,8 @@ disqus_shortname: f73chen
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 5e8c61 #edffec
-  primary-rgb: "94, 140, 97" #"237, 255, 236"
+  primary: edffec
+  primary-rgb: "237, 255, 236"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
