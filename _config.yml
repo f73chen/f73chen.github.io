@@ -52,9 +52,7 @@ address:
   - line: Toronto, ON, M4S 0A4
 
 # Credits content
-credits: 
-  - line: 'Biomedical Engineering at University of Waterloo'
-  - line: 'Artificial Intelligence Option and Software Option.'
+credits: 'Biomedical Engineering at University of Waterloo. Pursuing Artificial Intelligence Option and Software Option.'
 
 # Build settings
 markdown: kramdown
