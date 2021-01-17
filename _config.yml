@@ -25,8 +25,8 @@ disqus_shortname: f73chen
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 50514f #2f1847
-  primary-rgb: "80, 81, 79" #"47, 24, 71"
+  primary: 4f5d75 #50514f #2f1847
+  primary-rgb: "79, 93, 117" #"80, 81, 79" #"47, 24, 71"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -52,7 +52,7 @@ address:
   - line: Toronto, ON, M4S 0A4
 
 # Credits content
-credits: 'Biomedical Engineering at University of Waterloo. Pursuing Artificial Intelligence Option and Software Option.'
+credits: 'Biomedical Engineering at University of Waterloo. Pursuing Artificial Intelligence Option and Software Engineering Option.'
 
 # Build settings
 markdown: kramdown
