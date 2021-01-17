@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 5
+date: 2021-01-14
+img: uwarg.png
+alt: image-alt
+project-date: January 2021
+category: Machine Learning
+description: Computer Vision member at the Waterloo Aerial Robotics Group. I'll be developing an algorithm for the plane to taxi to boxes of medical supplies then scan their barcodes. I'm looking forward to competing in the Unmanned Systems Canada Student UAS Competition when the pandemic ends!
+---
