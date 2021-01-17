@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 3
+date: 2020-09-16
+img: cancer.png
+alt: image-alt
+project-date: September 2020
+category: Machine Learning
+description: During the MedHacks Hackathon, my team and I created a tumour detection website in Python. We trained a convolutional neural network to identify 7 different types of skin conditions. When the user uploads an image, they'll be directed to learn more about their condition.
+---
