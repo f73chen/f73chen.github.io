@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Fenglin Chen
-  location: Location
+  location: Address
   social: Social Media
   credits: Education
 
@@ -48,11 +48,13 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: (647) 870-4023
+  - line: 
   - line: 1710-89 Dunfield Ave.
   - line: Toronto, ON, M4S 0A4
 
 # Credits content
-credits: 'Biomedical Engineering at University of Waterloo. Pursuing Artificial Intelligence Option and Software Engineering Option.'
+credits: 'Biomedical Engineering at the University of Waterloo. Pursuing Artificial Intelligence Option and Software Engineering Option.'
 
 # Build settings
 markdown: kramdown
