@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+date: 2021-02-20
+img: fake_news.jpg
+alt: image-alt
+project-date: February 2021
+category: Natural Language Processing
+description: My team won 1st place at SteelHacks 2021 by making a fake news detector. From user-input URL, the program pulls text data like article title and content, then uses BERT to predict realness. Try it out here: https://github.com/f73chen/SteelHacks
+---
